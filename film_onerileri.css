@@ -1,6 +1,6 @@
 .yaziresim {
 width: 900px;
-margin:0px
+margin:0px;
 }
 .solakaydir {
     float:left;
@@ -66,6 +66,9 @@ margin:0px
     right: 0px;
     top: 1243px;
     position: absolute;
-    
 }
+
+    p {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
 
